@@ -59,7 +59,7 @@ werkzeug==0.16.0
 wheel==0.33.6             # via tensorboard
 wsaccel==0.6.2
 xgboost==0.90
-tensorflow==1.14.0
+tensorflow==1.15.2
 gast==0.2.2
 tensorflow_datasets<2
 git+https://github.com/determined-ai/tensorpack.git@0cb4fe8e6e9b7de861c9a1e0d48ffff72b72138a
